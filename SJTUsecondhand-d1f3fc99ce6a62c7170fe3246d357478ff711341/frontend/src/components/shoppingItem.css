@@ -1,0 +1,188 @@
+.price-info li {
+    line-height: 24px;
+    padding: 0 0 8px 10px;
+    position: relative;
+    white-space: nowrap;
+  }
+  .idle-info {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    list-style: none;
+    border-bottom: 1px solid #eee;
+  }
+  .idle-info li {
+    padding: 5px 0 5px 8px;
+  }
+  .price {
+    color: #f40;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .buy-button {
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+  }
+  .addtocart-button {
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+  }
+  .shopping-item-info {
+    margin-top: 30px;
+    width: 730px;
+  }
+  .top-nav .others {
+    border: 1px solid #E7E7E7;
+    border-top: 0;
+    border-left: 0;
+    padding: 10px 0 0;
+    height: 60px;
+    border-radius: 0 0 4px;
+    width: 100%;
+    list-style: none;
+  }
+  .others li {
+    float: left;
+    height: 40px;
+    padding: 0 15px;
+    border-right: 1px dotted #ddd;
+    text-align: center;
+  }
+  .others-wrap {
+    /* display: inline; */
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+    border-top: 2px solid #333;
+  
+  }
+  .top-nav {
+    position: relative;
+    height: 60px;
+    background-position: 0 47px;
+    z-index: 120;
+  }
+  .top-nav .others li h5 {
+    color: #999;
+    font-weight: 400;
+    line-height: 20px;
+    padding-bottom: 0
+  }
+  .guarantee {
+    list-style: none;
+    padding-left: 0;
+  }
+  .guarantee li {
+    border-bottom: 1px dotted #e1e1e1;
+    padding: 34px 0 30px 0px;
+    overflow: hidden;
+  }
+  .guarantee h4 {
+    height: 20px;
+    width: 138px;
+    margin-bottom: 13px;
+  }
+  .guarantee .arrow {
+    float: left;
+    margin: 10px 0 0 15px;
+    width: 36px;
+    height: 58px;
+    background-position: -285px -131px;
+  }
+  
+  .guarantee .addon {
+    /* text-indent: -9999px; */
+    float: right;
+    margin-left: 20px;
+    margin-top: 50px;
+    height: 23px;
+    width: 250px;
+    color: seagreen;
+    font-size: 140%
+  }
+  .guarantee .intro {
+    float: left;
+    width: 300px;
+  }
+  .intro h4 {
+    font-size: 25px;
+    width: 400px;
+    padding-bottom: 40px;
+    font-weight: 400
+  }
+  .idle-box {
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    padding: 20px 20px 5px;
+    width: 198px;
+    position: relative;
+    margin-top: 20px;
+    overflow: hidden;
+    width: 398px;
+  }
+  .idle-box h4 {
+    font: 700 16px/20px "Microsoft YaHei";
+  }
+  ul {
+    list-style: none;
+  }
+  .idle-box ul li {
+    float: left;
+    width: 250px;
+    height: 80px;
+    margin: 15px 0;
+  }
+  .sh-pic80, .sh-pic80 img {
+    width: 80px;
+    height: 80px;
+  }
+  .idle-box .item-info {
+    float: left;
+    width: 120px;
+  }
+  .idle-box .item-pic {
+    border: 1px solid #ebebeb;
+    float: left;
+    margin-right: 8px;
+    overflow: hidden;
+  }
+  .idle-box .more {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    color: #fc0;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .avatar {
+    float: left;
+    margin-right: 10px;
+  }
+  .seller-info .user-name {
+    float: left;
+    margin-top: -6px;
+    height: 22px;
+    width: 166px;
+    overflow: hidden;
+  }
+  .seller-info .avatar img {
+    vertical-align: middle;
+    max-width: 32px;
+    max-height: 32px;
+  }
+  .arrow img {
+    width: 50px;
+    height: 100px;
+  }
+  .icon {
+    margin-top: 50px;
+  }
+  .icon img {
+    /* padding-top: 50px; */
+    width: 100px;
+    height: 90px;
+    float: left;
+  }

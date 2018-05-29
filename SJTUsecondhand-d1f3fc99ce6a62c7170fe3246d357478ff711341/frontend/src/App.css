@@ -1,0 +1,108 @@
+@import '~antd/dist/antd.css';
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#logoName {
+  font-size: 120%;
+  margin: 10px;
+  margin-left: 5px;
+}
+
+#logo {
+  width: 46px;
+  height: 46px
+}
+
+#headSearch {
+  position: relative;
+  margin-top: 3%
+}
+
+#BodyNavPC {
+  border: 1px solid #55b4ec;
+}
+
+#BodyPC {
+  padding-top: 2%;
+  background-color: #edeff1b5
+}
+#BodySliderPC {
+  margin-left: 3%
+}
+#BodySliderPC img{
+  width: 860px;
+}
+#BodyOtherPC {
+  margin-left: 4%;
+  background-color: white
+}
+#Bodyblow {
+  margin-top: 2%;
+}
+#HeaderPC {
+  height: 10px;
+}
+#BodyItem {
+  width: 30px;
+  height: 50px;
+  background-color: teal
+}
+#youhaohuo {
+  width: 60px;
+}
+#erwma{
+  width: 200px;
+}
+#you1 {
+  width: 233px;
+}
+#BodyblowFirstRow {
+  margin-top: 1%
+}
+.login-form-button {
+  width: 100%
+}
+#Sliderbbb img{
+  width: 890px;
+}
+.signin-form-button {
+  width: 100%
+}
+.icp-selector {
+  width: 50px
+}
+.footer {
+  padding: 15px;
+  height: 50px
+}
+.price-info {
+  padding: 12px 0 5px;
+  border-bottom: 1px solid #eee;
+  list-style: none;
+}

@@ -1,0 +1,87 @@
+#Personal{
+  /* padding-left: 50px; */
+  padding-right: 50px;
+  background-color: #eee;
+}
+#menu{
+  height: 100%;
+  width: 45%;
+  border: 3px solid #55b4ec;
+  margin: 70px 50px 10px 35px;
+  padding-bottom: 100px;
+  padding-top: 50px;
+  background-color: #fff;
+}
+#content{
+  height: 100%;
+  border: 3px solid #55b4ec; 
+  margin: 70px 350px 20px 50px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  font-size: large;
+  background-color: #fff;
+}
+#Ziliao{
+  height: 100%;
+  width: 60%;
+  border: 3px solid #55b4ec; 
+  margin: 100px 800px 1500px 600px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  font-size: large;
+}
+#Huobi{
+  padding-left: 100px;
+}
+#content h2 {
+  margin: 10px 10px 10px 30px;
+}
+#button1{
+  margin-left: 600px;
+  border: 0px;
+  color: #55b4ec;
+}
+#button2{
+  margin-left: 210px;
+  border: 0px;
+  color:#55b4ec;
+}
+#button3{
+  margin-left: 475px;
+  border: 0px;
+  color:#55b4ec;
+}
+/* .ant-menu-inline > .ant-menu-submenu > .ant-menu-submenu-title{
+  font-size: 25px !important;
+  }
+.ant-menu-inline > .ant-menu-item{
+  font-size: 25px !important;
+} */
+#Huobi{
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top: 100px;
+  padding-bottom: 800px;
+}
+#Dizhi{
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top: 100px;
+  padding-bottom: 800px;
+}
+#info{
+  border: 3px solid #55b4ec;
+  margin: 70px 500px 800px 500px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#Shangpin{
+  border: 3px solid #55b4ec;
+  margin: 70px 500px 800px 500px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
